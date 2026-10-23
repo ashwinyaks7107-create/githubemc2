@@ -1,1 +1,6 @@
-creates testfile.txt
+creates testfile.c
+#include<stdio.h>
+void main()
+{
+  printf("Hello World");
+}
